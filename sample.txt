@@ -5,4 +5,4 @@ The theory of general relativity predicts that a sufficiently
 compact mass can deform spacetime to form a black hole.
 The boundary of the region from which no escape is possible is 
 called the event amost horizon i think, or that's wath i would expect.
-Stop modifying my file. Make me! 
+Stop modifying my file. errasing unnecesary text. 

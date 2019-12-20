@@ -4,4 +4,4 @@ electromagnetic radiation such as light—can escape from it.
 The theory of general relativity predicts that a sufficiently 
 compact mass can deform spacetime to form a black hole.
 The boundary of the region from which no escape is possible is 
-called the event horizon. 
+called the event amost horizon i think, or that's wath i would expect. 
